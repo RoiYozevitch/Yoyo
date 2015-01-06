@@ -3,7 +3,6 @@
  */
 public class Yoyo {
     public static void main(String[] args) {
-        System.out.println("yoyo");
-        System.out.println("yoyo2");
+        System.out.println("Rinat");
     }
 }
